@@ -130,6 +130,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ## Other Awesome Lists
 
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+* [Awesome Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 
 ## Contributing
