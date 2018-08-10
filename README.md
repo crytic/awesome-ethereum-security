@@ -135,4 +135,4 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ## Contributing
 
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
+We welcome contributions that help curate this awesome list. Please refer to the [contributing guidelines](CONTRIBUTING.md) when submitting PRs. Thanks!
