@@ -5,9 +5,9 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ## Contents
 
 * [Learning](#learning)
-  * [Development resources](#development-resources)
+  * [Development references](#development-references)
     * [Security references](#security-references)
-    * [Insecurity references(#insecurity-references)
+    * [Insecurity references](#insecurity-references)
   * [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
     * [Writeups](#writeups)
   * [Coordinated disclosure](#coordinated-disclosure)
