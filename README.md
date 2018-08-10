@@ -1,4 +1,5 @@
-# awesome-ethereum-security
+# Awesome Ethereum Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome Ethereum security references, guidance, tools, and more.
 
 ## Learning
@@ -102,7 +103,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
 * [Empire Hacking Slack](https://empireslacking.herokuapp.com/) and [Empire Hacking](https://www.empirehacking.nyc/)
 
-### Other Awesome Lists
+## Other Awesome Lists
 
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+
+## Contributing
+
+[Please refer to the contributing guide for details](CONTRIBUTING.md).
