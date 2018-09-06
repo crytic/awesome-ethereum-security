@@ -34,6 +34,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Comprehensive list of known attack vectors for Solidity](https://blog.sigmaprime.io/solidity-security.html)
+* [Decentralized Application Security Project](https://www.dasp.co/)
 
 #### Insecurity references
 
@@ -45,11 +46,13 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 * [Capture the Ether](https://capturetheether.com/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
 * [Ethernaut](https://ethernaut.zeppelin.solutions/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
+* [EtherHack](https://etherhack.positive.com/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
 
 #### Writeups
 
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
 * [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for NaughtCoin, a vulnerable ERC20 implementation, from the Ethernaut CTF.
+* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - A writeup for EtherHack CTF challenges.
 
 ### Coordinated disclosure
 
@@ -60,6 +63,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Hacking Distributed](http://hackingdistributed.com/) - Emin Gün Sirer, a professor in Cornell Tech’s IC3 lab focused on blockchain security.
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, the software engineer and grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
+* [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 
 ### Conference talks
 
@@ -67,6 +71,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [HITB Amsterdam 2018 - Smashing Ethereum Smart Contracts for Fun and Profit](https://conference.hitb.org/hitbsecconf2018ams/sessions/smashing-ethereum-smart-contracts-for-fun-and-actual-profit/)
 * [CanSecWest 2018 - Blackhat Ethereum](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20-%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf)
 * [EkoParty 2017 - Automated Bug Finding for the Blockchain](https://github.com/trailofbits/presentations/tree/master/Automatic%20Bug-Finding%20for%20the%20Blockchain)
+* [OWASP AppSec California 2018 - Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)
 
 ### Podcasts and Episodes
 
@@ -92,6 +97,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print an inheritance graph of a smart contracts
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
+* [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
 
 ### Linters
 
@@ -106,6 +112,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Mythril](https://github.com/b-mueller/mythril/) - Security analysis tool for Ethereum smart contracts built around detector modules
 * [Securify](http://securify.ch/) - Static analysis tools from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework with detectors for many common Solidity issues. It has taint and value tracking capabilities and is written in Python.
+* [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts
 
 ### Verification tools
 
@@ -120,6 +127,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) - An IDA plugin to view EVM instructions within IDA
 * [PyEVMAsm](https://github.com/trailofbits/pyevmasm) - An EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [abi-decompiler](https://github.com/beched/abi-decompiler) - Ethereum (EVM) smart contracts reverse engineering helper utility
 
 ### Communities
 
