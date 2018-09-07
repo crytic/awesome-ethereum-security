@@ -53,6 +53,8 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
 * [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for NaughtCoin, a vulnerable ERC20 implementation, from the Ethernaut CTF.
 * [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - A writeup for EtherHack CTF challenges.
+* [Capture the Ether Writeup - Pt. 1](https://celebrusadvisory.com/smart-contract-exploits-pt-1/) - Part 1 of the Capture the Ether writeup, focused on the Lotteries section.
+* [Capture the Ether Writeup - Pt. 2](https://celebrusadvisory.com/smart-contract-exploits-part-2/) - Part 2 of the Capture the Ether writeup, focused on the Math section.
 
 ### Coordinated disclosure
 
