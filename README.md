@@ -56,7 +56,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Capture the Ether Writeup - Pt. 1](https://medium.com/@Enigmatic1256/smart-contract-exploits-part-1-featuring-capture-the-ether-lotteries-8a061ad491b/) - Part 1 of the Capture the Ether writeup, focused on the Lotteries section.
 * [Capture the Ether Writeup - Pt. 2](https://medium.com/@Enigmatic1256/smart-contract-exploits-part-2-featuring-capture-the-ether-math-31a289da0427/) - Part 2 of the Capture the Ether writeup, focused on the Math section.
 * [Capture the Ether Writeup - Pt. 3](https://medium.com/@Enigmatic1256/smart-contract-exploits-part-3-featuring-capture-the-ether-accounts-c86d7e9a1400/) - Part 2 of the Capture the Ether writeup, focused on the Accounts section.
-* [Capture the Ether Writeup - Pt. 4](https://medium.com/@Enigmatic1256/smart-contract-exploits-part-3-featuring-capture-the-ether-miscellaneous-d11bae6cb01b/) - Part 4 of the Capture the Ether writeup, focused on the Miscellaneous section.
+* [Capture the Ether Writeup - Pt. 4](https://medium.com/@Enigmatic1256/smart-contract-exploits-part-4-featuring-capture-the-ether-miscellaneous-232df82a559f/) - Part 4 of the Capture the Ether writeup, focused on the Miscellaneous section.
 
 ### Coordinated disclosure
 
