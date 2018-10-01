@@ -13,6 +13,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
   * [Coordinated disclosure](#coordinated-disclosure)
   * [Blogs](#blogs)
   * [Conference talks](#conference-talks)
+  * [Security writeups](security-writeups)
   * [Podcasts and Episodes](#podcasts-and-episodes)
     * [Podcasts](#podcasts)
     * [Episodes](#episodes)
