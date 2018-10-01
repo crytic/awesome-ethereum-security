@@ -53,6 +53,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
 * [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for NaughtCoin, a vulnerable ERC20 implementation, from the Ethernaut CTF.
 * [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - A writeup for EtherHack CTF challenges.
+* [How the Fomo3D lottery prize pool was taken](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f) - A writeup for how a clever participant in the smart contract based lottery, Fomo3D, used abnormal transactions to ensure that they would collect the winnings.
 
 ### Coordinated disclosure
 
