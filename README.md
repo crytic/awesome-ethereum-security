@@ -73,6 +73,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [EkoParty 2017 - Automated Bug Finding for the Blockchain](https://github.com/trailofbits/presentations/tree/master/Automatic%20Bug-Finding%20for%20the%20Blockchain)
 * [OWASP AppSec California 2018 - Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)
 
+### Security writeups
+* [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
+* [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
+
+
 ### Podcasts and Episodes
 
 #### Podcasts
@@ -140,6 +145,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+* [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 ## Contributing
 
