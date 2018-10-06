@@ -8,6 +8,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
   * [Development references](#development-references)
     * [Security references](#security-references)
     * [Insecurity references](#insecurity-references)
+    * [Smart contract upgrades](#smart-contract-upgrades)
   * [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
     * [Writeups](#writeups)
   * [Coordinated disclosure](#coordinated-disclosure)
@@ -42,36 +43,44 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [EVM Analyzer Benchmark](https://github.com/ConsenSys/evm-analyzer-benchmark-suite)
 * [Not So Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts)
 
+#### Smart contract upgrades
+
+* [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+
 ### Capture the Flag and Wargames
 
-* [Capture the Ether](https://capturetheether.com/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
-* [Ethernaut](https://ethernaut.zeppelin.solutions/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
-* [EtherHack](https://etherhack.positive.com/) - A Capture The Flag style set of exploitable contracts at varying levels of difficulty.
+* [Capture the Ether](https://capturetheether.com/)
+* [Ethernaut](https://ethernaut.zeppelin.solutions/)
+* [EtherHack](https://etherhack.positive.com/)
+* [SI Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
 
 #### Writeups
 
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
-* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for NaughtCoin, a vulnerable ERC20 implementation, from the Ethernaut CTF.
+* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for a vulnerable ERC20 implementation from the Ethernaut CTF.
 * [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - A writeup for EtherHack CTF challenges.
 
 ### Coordinated disclosure
 
-* [Blockchain Security Contacts](https://github.com/trailofbits/blockchain-security-contacts) - Email contact info for blockchain projects if you have security information to report
+* [Blockchain Security Contacts](https://github.com/trailofbits/blockchain-security-contacts) - Security contact info for blockchain projects
 
 ### Blogs
 
-* [Hacking Distributed](http://hackingdistributed.com/) - Emin Gün Sirer, a professor in Cornell Tech’s IC3 lab focused on blockchain security.
-* [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, the software engineer and grad student behind KEVM, Hydra, and other Ethereum academic projects
+* [Hacking Distributed](http://hackingdistributed.com/) - Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.
+* [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 
 ### Conference talks
 
-* [REcon 2018 - Reverse Engineering Of Blockchain Smart Contracts](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf)
-* [HITB Amsterdam 2018 - Smashing Ethereum Smart Contracts for Fun and Profit](https://conference.hitb.org/hitbsecconf2018ams/sessions/smashing-ethereum-smart-contracts-for-fun-and-actual-profit/)
-* [CanSecWest 2018 - Blackhat Ethereum](https://cansecwest.com/slides/2018/Blackhat%20Ethereum%20-%20Ryan%20Stortz%20and%20Jay%20Little,%20Trail%20of%20Bits,%20Inc.pdf)
-* [EkoParty 2017 - Automated Bug Finding for the Blockchain](https://github.com/trailofbits/presentations/tree/master/Automatic%20Bug-Finding%20for%20the%20Blockchain)
-* [OWASP AppSec California 2018 - Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf)
+| Title | Conference | Year |
+| --- | --- | --- |
+| [Predicting Random Numbers in Ethereum Smart Contracts](https://schd.ws/hosted_files/appseccalifornia2018/00/AppSecCali%202018%20-%20Predicting%20Random%20Numbers%20in%20Ethereum%20Smart%20Contracts.pdf) | OWASP AppSec | 2018 |
+| [Blockchain Autopsies - Analyzing Smart Contract Deaths](https://github.com/trailofbits/publications/tree/master/presentations/Blockchain%20Autopsies%20-%20Analyzing%20Smart%20Contract%20Deaths) | Blackhat USA | 2018 |
+| [Rattle - an EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/) | reCON | 2018 |
+| [Blackhat Ethereum](https://github.com/trailofbits/publications/blob/master/presentations/Blackhat%20Ethereum) | CanSecWest | 2018 |
+| [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) | HITB Amsterdam | 2018 |
+| [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 
 ### Podcasts and Episodes
 
@@ -94,7 +103,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ### Visualization
 
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - A graphical EVM debugger. Displays the entire program control flow graph.
-* [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print an inheritance graph of a smart contracts
+* [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
@@ -110,9 +119,8 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Echidna](https://github.com/trailofbits/echidna) - The only available fuzzer for Ethereum software. Uses property testing to generate malicious inputs that break smart contracts
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril](https://github.com/b-mueller/mythril/) - Security analysis tool for Ethereum smart contracts built around detector modules
-* [Securify](http://securify.ch/) - Static analysis tools from ChainSecurity
-* [Slither](https://github.com/trailofbits/slither) - Static analysis framework with detectors for many common Solidity issues. It has taint and value tracking capabilities and is written in Python.
-* [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts
+* [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
+* [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
 ### Verification tools
 
@@ -121,19 +129,19 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Reversing tools
 
-* [Ethersplay](https://github.com/trailofbits/ethersplay) - A visual disassembler for EVM bytecode built on Binary Ninja
-* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - An EVM disassembler with static and dynamic analysis abilities, including function signature lookup
-* [evm-lab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
-* [IDA-EVM](https://github.com/trailofbits/ida-evm) - An IDA plugin to view EVM instructions within IDA
-* [PyEVMAsm](https://github.com/trailofbits/pyevmasm) - An EVM assembler and disassembler with a CLI and a Python API
-* [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - Ethereum (EVM) smart contracts reverse engineering helper utility
+* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - An EVM disassembler with static and dynamic analysis abilities, including function signature lookup
+* [Ethersplay](https://github.com/trailofbits/ethersplay) - A visual disassembler for EVM bytecode built on Binary Ninja
+* [evm-lab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
+* [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
+* [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
+* [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 
 ### Communities
 
 * [ETHSecurity](https://discourse.secureth.org/)
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
-* [Empire Hacking Slack](https://empireslacking.herokuapp.com/) and [Empire Hacking](https://www.empirehacking.nyc/)
+* [Empire Hacking Slack](https://empireslacking.herokuapp.com/), [Empire Hacking](https://www.empirehacking.nyc/), and Trail of Bits [Ethereum security office hours](https://trailofbits.wufoo.com/build/sign-up-to-ethereum-security-office-hours/)
 
 ## Other Awesome Lists
 
