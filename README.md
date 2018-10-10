@@ -14,6 +14,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
   * [Coordinated disclosure](#coordinated-disclosure)
   * [Blogs](#blogs)
   * [Conference talks](#conference-talks)
+  * [Security writeups](security-writeups)
   * [Podcasts and Episodes](#podcasts-and-episodes)
     * [Podcasts](#podcasts)
     * [Episodes](#episodes)
@@ -82,6 +83,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 | [Smashing Ethereum Smart Contracts for Fun and Profit](https://github.com/b-mueller/smashing-smart-contracts) | HITB Amsterdam | 2018 |
 | [Automatic Bug Finding for the Blockchain](https://github.com/trailofbits/publications/blob/master/presentations/Automatic%20bugfinding%20for%20the%20blockchain) | EkoParty | 2017 |
 
+### Security writeups
+* [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
+* [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
+
+
 ### Podcasts and Episodes
 
 #### Podcasts
@@ -148,6 +154,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+* [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 ## Contributing
 
