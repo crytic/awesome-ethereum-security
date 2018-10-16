@@ -142,7 +142,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Ethereum Security Events Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_56jstkqe74aj76vv83q7h041q4%40group.calendar.google.com&ctz=America%2FNew_York)
 * [ETHSecurity](https://discourse.secureth.org/)
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
-* [Empire Hacking Slack](https://empireslacking.herokuapp.com/)
+* [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
 
 ## Other Awesome Lists
 
