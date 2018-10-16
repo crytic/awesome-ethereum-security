@@ -139,15 +139,17 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Communities
 
+* [Ethereum Security Events Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_56jstkqe74aj76vv83q7h041q4%40group.calendar.google.com&ctz=America%2FNew_York)
 * [ETHSecurity](https://discourse.secureth.org/)
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
-* [Empire Hacking Slack](https://empireslacking.herokuapp.com/), [Empire Hacking](https://www.empirehacking.nyc/), and Trail of Bits [Ethereum security office hours](https://trailofbits.wufoo.com/build/sign-up-to-ethereum-security-office-hours/)
+* [Empire Hacking Slack](https://empireslacking.herokuapp.com/)
 
 ## Other Awesome Lists
 
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+* [Crypto projects that might not suck](https://github.com/sweis/crypto-might-not-suck)
 
 ## Contributing
 
