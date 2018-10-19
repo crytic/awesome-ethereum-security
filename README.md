@@ -5,9 +5,8 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ## Contents
 
 * [Learning](#learning)
-  * [Development references](#development-references)
-    * [Security references](#security-references)
-    * [Insecurity references](#insecurity-references)
+  * [Security references](#security-references)
+  * [Insecurity references](#insecurity-references)
   * [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
     * [Writeups](#writeups)
   * [Coordinated disclosure](#coordinated-disclosure)
@@ -28,16 +27,14 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ## Learning
 
-### Development references
-
-#### Security references
+### Security references
 
 * [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Comprehensive list of known attack vectors for Solidity](https://blog.sigmaprime.io/solidity-security.html)
 * [Decentralized Application Security Project](https://www.dasp.co/)
 
-#### Insecurity references
+### Insecurity references
 
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens)
 * [EVM Analyzer Benchmark](https://github.com/ConsenSys/evm-analyzer-benchmark-suite)
@@ -73,6 +70,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Missing return value bug in ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [Not A Fair Game – Fairness Analysis of Dice2win](http://blogs.360.cn/post/Fairness_Analysis_of_Dice2win_EN.html)
 * [The Anatomy of a Block Stuffing Attack](https://osolmaz.com/2018/10/18/anatomy-block-stuffing/)
+* [Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
 
 ### Conference talks
 
