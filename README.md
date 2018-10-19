@@ -8,11 +8,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
   * [Development references](#development-references)
     * [Security references](#security-references)
     * [Insecurity references](#insecurity-references)
-    * [Smart contract upgrades](#smart-contract-upgrades)
   * [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
     * [Writeups](#writeups)
   * [Coordinated disclosure](#coordinated-disclosure)
   * [Blogs](#blogs)
+  * [Notable blog posts](#notable-blog-posts)
   * [Conference talks](#conference-talks)
   * [Podcasts and Episodes](#podcasts-and-episodes)
     * [Podcasts](#podcasts)
@@ -43,10 +43,6 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [EVM Analyzer Benchmark](https://github.com/ConsenSys/evm-analyzer-benchmark-suite)
 * [Not So Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts)
 
-#### Smart contract upgrades
-
-* [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
-
 ### Capture the Flag and Wargames
 
 * [Capture the Ether](https://capturetheether.com/)
@@ -70,6 +66,13 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
+
+### Notable blog posts
+
+* [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
+* [Missing return value bug in ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
+* [Not A Fair Game – Fairness Analysis of Dice2win](http://blogs.360.cn/post/Fairness_Analysis_of_Dice2win_EN.html)
+* [The Anatomy of a Block Stuffing Attack](https://osolmaz.com/2018/10/18/anatomy-block-stuffing/)
 
 ### Conference talks
 
