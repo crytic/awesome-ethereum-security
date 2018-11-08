@@ -50,8 +50,8 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 #### Writeups
 
 * [Hands on the Ethernaut CTF](https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/) - Writeups for various Ethernaut CTF challenge contracts.
-* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - A writeup for a vulnerable ERC20 implementation from the Ethernaut CTF.
-* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - A writeup for EtherHack CTF challenges.
+* [Ethernaut - Naught Coin (ERC20) Exploitation](https://medium.com/coinmonks/ethernaut-naught-coin-erc20-exploitation-218c86bb953b) - Writeup for a vulnerable ERC20 from the Ethernaut CTF.
+* [EtherHack CTF Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248) - Writeup for EtherHack CTF challenges.
 * [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) - Demonstrates advanced use of Manticore
 
 ### Coordinated disclosure
@@ -114,13 +114,13 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Linters
 
-* [Remix](https://remix.ethereum.org/) - A browser-based Solidity IDE with linting features
-* [Solhint](https://github.com/protofire/solhint) - A linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
-* [Solium](https://github.com/duaraghav8/Solium) - Another linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
+* [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
+* [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
+* [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 
 ### Bug finding tools
 
-* [Echidna](https://github.com/trailofbits/echidna) - The only available fuzzer for Ethereum software. Uses property testing to generate malicious inputs that break smart contracts
+* [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
@@ -134,8 +134,8 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ### Reversing tools
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - Ethereum (EVM) smart contracts reverse engineering helper utility
-* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - An EVM disassembler with static and dynamic analysis abilities, including function signature lookup
-* [Ethersplay](https://github.com/trailofbits/ethersplay) - A visual disassembler for EVM bytecode built on Binary Ninja
+* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
+* [Ethersplay](https://github.com/trailofbits/ethersplay) - Visual disassembler for EVM bytecode built on Binary Ninja
 * [evmlab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
