@@ -29,6 +29,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Security references
 
+* [SecurEth Development Guidelines](https://guidelines.secureth.org)
 * [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Comprehensive list of known attack vectors for Solidity](https://blog.sigmaprime.io/solidity-security.html)
