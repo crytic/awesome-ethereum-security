@@ -123,8 +123,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [Octopus](https://github.com/quoscient/octopus) - Security analysis framework for Blockchain Smart Contracts that includes support for EVM and (e)WASM.
+* [Oyente](https://github.com/melonproject/oyente) - An automatic EVM code analyzer based on symbolic execution, the Z3 SMT solver, and this [paper](http://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [SmartCheck](https://tool.smartdec.net) - Static analysis tool for Vyper and Solidity source code
 
 ### Verification tools
 
