@@ -131,6 +131,10 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for EVM
 
+### Real-time tools
+
+* [SafeBlocks Firewall](https://app.safeblocks.io) - Decentralized Application Firewall for smart contracts
+
 ### Reversing tools
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - Ethereum (EVM) smart contracts reverse engineering helper utility
