@@ -29,10 +29,11 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Security references
 
-* [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
-* [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Comprehensive list of known attack vectors for Solidity](https://blog.sigmaprime.io/solidity-security.html)
+* [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Decentralized Application Security Project](https://www.dasp.co/)
+* [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
+* [Solidity v0.5.0 Breaking Changes](https://solidity.readthedocs.io/en/latest/050-breaking-changes.html)
 
 ### Insecurity references
 
@@ -69,11 +70,18 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 * [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
 * [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
+* [How to debug Solidity Smart Contracts with Tenderly and Truffle](https://medium.com/tenderly/how-to-debug-solidity-smart-contracts-with-tenderly-and-truffle-da995cfe098f)
+* [Lashing out at a Spank Channel](https://medium.com/coinmonks/lashing-out-at-a-spank-channel-2b42b23f0dc6)
+* [Malicious GasToken Minting](https://medium.com/level-k/public-disclosure-malicious-gastoken-minting-236b2f8ace38)
 * [Missing return value bug in ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [Not A Fair Game – Fairness Analysis of Dice2win](http://blogs.360.cn/post/Fairness_Analysis_of_Dice2win_EN.html)
+* [Initial Formal Verification of Ethereum Casper Protocol](https://runtimeverification.com/blog/runtime-verification-completes-formal-verification-of-ethereum-casper-protocol/)
+* [Security considerations for Shamir's secret sharing](https://ethresear.ch/t/security-considerations-for-shamirs-secret-sharing/4294)
+* [SmartDec smart contract audit beginner's guide](https://blog.smartdec.net/smartdec-smart-contract-audit-beginners-guide-d04cc7f1c571)
 * [The Anatomy of a Block Stuffing Attack](https://osolmaz.com/2018/10/18/anatomy-block-stuffing/)
 * [The phenomenon of smart contract honeypots](https://medium.com/@gerhard.wagner/the-phenomena-of-smart-contract-honeypots-755c1f943f7b)
 * [Use our suite of Ethereum security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
+* [Vertcoin (VTC) was successfully 51% attacked](https://medium.com/coinmonks/vertcoin-vtc-is-currently-being-51-attacked-53ab633c08a4)
 
 ### Conference talks
 
@@ -133,15 +141,20 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Reversing tools
 
-* [abi-decompiler](https://github.com/beched/abi-decompiler) - Ethereum (EVM) smart contracts reverse engineering helper utility
+* [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
 * [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - Visual disassembler for EVM bytecode built on Binary Ninja
 * [evmlab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
+* [Panoramix](http://eveem.org/about)
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 
-### Communities
+### Custody
+
+* [Subzero](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) - Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square
+
+## Communities
 
 * [Ethereum Security Events Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_56jstkqe74aj76vv83q7h041q4%40group.calendar.google.com&ctz=America%2FNew_York)
 * [ETHSecurity](https://discourse.secureth.org/)
