@@ -47,6 +47,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Ethernaut](https://ethernaut.zeppelin.solutions/)
 * [EtherHack](https://etherhack.positive.com/)
 * [SI Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
+* [Solidified](https://web.solidified.io/) - Check [here](https://s3.amazonaws.com/airdropchallenges/index.html) and [here](https://www.youtube.com/watch?v=_FKqP9TEsus) for details.
 
 #### Writeups
 
