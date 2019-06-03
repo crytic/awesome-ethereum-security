@@ -10,6 +10,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
   * [Capture the Flag and Wargames](#capture-the-flag-and-wargames)
     * [Writeups](#writeups)
   * [Coordinated disclosure](#coordinated-disclosure)
+  * [Books](#books)
   * [Blogs](#blogs)
   * [Notable blog posts](#notable-blog-posts)
   * [Conference talks](#conference-talks)
@@ -58,6 +59,9 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ### Coordinated disclosure
 
 * [Blockchain Security Contacts](https://github.com/trailofbits/blockchain-security-contacts) - Security contact info for blockchain projects
+
+### Books
+* [Blockchain in Action](https://www.manning.com/books/blockchain-in-action/) - Manning early-acces book by Bina Ramamurthy. 
 
 ### Blogs
 
