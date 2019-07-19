@@ -140,6 +140,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for EVM
+* [solc-verify](https://github.com/SRI-CSL/solidity) - A Modular Verifier for Solidity Smart Contracts
 
 ### Reversing tools
 
