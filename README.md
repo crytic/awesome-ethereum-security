@@ -115,12 +115,12 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ### Visualization
 
-* [Tenderly](https://tenderly.dev) - A platform that allows you to dive into every transaction with a step by step visualization of the execution and to monitor smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - A graphical EVM debugger. Displays the entire program control flow graph.
 * [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
+* [Tenderly](https://tenderly.dev) - A platform that allows you to dive into every transaction with a step by step visualization of the execution and to monitor smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
 
 ### Linters
 
