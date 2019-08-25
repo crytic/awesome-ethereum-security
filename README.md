@@ -66,6 +66,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
+* [SmartDec blog](https://blog.smartdec.net/) - Company blog about security issues and practices within blockchain ecosystem
 
 ### Notable blog posts
 
@@ -124,6 +125,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 ### Linters
 
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
+* [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
 * [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 
