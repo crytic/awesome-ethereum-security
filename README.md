@@ -146,6 +146,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
 * [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - EVM disassembler with static and dynamic analysis abilities, including function signature lookup
 * [Ethersplay](https://github.com/trailofbits/ethersplay) - Visual disassembler for EVM bytecode built on Binary Ninja
+* [ethervm](https://ethervm.io/) - Online solidity decompiler
 * [evmlab](https://github.com/ethereum/evmlab) - Utilities for interacting with the Ethereum virtual machine
 * [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA plugin to view EVM instructions
 * [Panoramix](http://eveem.org/about)
