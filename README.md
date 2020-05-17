@@ -2,6 +2,8 @@
 
 A curated list of awesome Ethereum security references, guidance, tools, and more.
 
+Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot on Calendly](https://calendly.com/dan-trailofbits/ethereum-office-hours). An engineer from Trail of Bits will assist you in applying advanced security (tools)[#tools] and practices to your smart contract code.
+
 ## Contents
 
 * [Learning](#learning)
@@ -158,8 +160,6 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 
 ## Communities
 
-* [Ethereum Security Events Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_56jstkqe74aj76vv83q7h041q4%40group.calendar.google.com&ctz=America%2FNew_York)
-* [ETHSecurity](https://discourse.secureth.org/)
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
 * [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
 
