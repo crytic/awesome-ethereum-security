@@ -142,6 +142,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for EVM
+* [solc-verify](https://github.com/SRI-CSL/solidity) - A Modular Verifier for Solidity Smart Contracts
 
 ### Reversing tools
 
