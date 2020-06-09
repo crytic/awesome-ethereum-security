@@ -122,6 +122,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
+* [Tenderly](https://tenderly.dev) - A platform that allows you to dive into every transaction with a step by step visualization of the execution and to monitor smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
 
 ### Linters
 
