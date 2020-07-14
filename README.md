@@ -126,7 +126,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 ### Linters
 
 * [Remix](https://remix.ethereum.org/) - Browser-based Solidity IDE with linting features
-* [SmarrtCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
+* [SmartCheck](https://tool.smartdec.net/) - A linter for Solidity and Vyper that checks code for security issues and bad practices.
 * [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 
