@@ -1,6 +1,6 @@
 # Awesome Ethereum Security [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of awesome Ethereum security references, guidance, tools, and more.
+A curated list of awesome Ethereum security references, guidance, tools, and more. Originally maintained by Trail of Bits. Updated and maintained by [Sleepy](https://twitter.com/morphean_sec)
 
 ## Contents
 
