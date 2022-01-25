@@ -69,6 +69,7 @@ It is recommended to finish these in order. Capture the Ether and Ethernaut can 
 * [Hacking Distributed](http://hackingdistributed.com/) - Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
+* [ConsenSys](https://consensys.net/blog/) - Blockchain software technology company with a well respected blockchain security team
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 * [SmartDec blog](https://blog.smartdec.net/) - Company blog about security issues and practices within blockchain ecosystem
 
