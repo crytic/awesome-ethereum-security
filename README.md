@@ -70,6 +70,8 @@ It is recommended to finish these in order. Capture the Ether and Ethernaut can 
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
 * [ConsenSys](https://consensys.net/blog/) - Blockchain software technology company with a well respected blockchain security team
+* [Immunefi](https://medium.com/immunefi) - DeFi bug bounty platform. Release post-mortems/write ups of critical vulns and guides
+* [Secureum](https://secureum.substack.com/) - Initiative to educate smart contract security auditors. Releases publications on audit techniques and best practices
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 * [SmartDec blog](https://blog.smartdec.net/) - Company blog about security issues and practices within blockchain ecosystem
 
