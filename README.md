@@ -162,6 +162,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
 * [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
+* [SkidsDAO discord](https://discord.gg/NHNRUKMCz2) - DAO founded to onboard and train web3 hackers whilst funding projects pushing Ethereum innovation via an inbuilt charity staking system. Facilitates open, accountable audits with exploit insurance and bug bounties through it's decentralized protocol, Fides.
+* [Secureum discord](https://discord.gg/7sSTQATM6h) - Founded by 0xRajeev(former Trail of Bits security researcher) to educate the Ethereum ecosystem on smart contract auditing and security. Holds monthly RACE and CARE programmes free of charge for aspiring auditors with NFTs as proof of participation and on-chain rep.
+* [Spearbit discord](https://discord.gg/qdYWpHJpnH) - DAO founded by freelance blockchain security researchers to provide an avenue for auditors to perform freelance work without worrying about legality issues.
+* [Immunefi discord](https://discord.gg/JPfXR8qFYZ) - Community discord for the Immunefi DeFi bug bounty platform. Hacker meetups are occasionally held. At the time of this writing, samczsun and the Ethernaut have been featured guests.
 
 ## Other Awesome Lists
 
