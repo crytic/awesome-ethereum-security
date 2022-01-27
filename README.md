@@ -34,6 +34,7 @@ A curated list of awesome Ethereum security references, guidance, tools, and mor
 * [Decentralized Application Security Project](https://www.dasp.co/)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Solidity v0.5.0 Breaking Changes](https://solidity.readthedocs.io/en/latest/050-breaking-changes.html)
+* [Solcurity](https://github.com/Rari-Capital/solcurity)
 
 ### Insecurity references
 
