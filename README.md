@@ -36,6 +36,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Decentralized Application Security Project](https://www.dasp.co/)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Solidity v0.5.0 Breaking Changes](https://solidity.readthedocs.io/en/latest/050-breaking-changes.html)
+* [Solcurity](https://github.com/Rari-Capital/solcurity)
 
 ### Insecurity references
 
@@ -45,10 +46,15 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 ### Capture the Flag and Wargames
 
+It is recommended to finish these in order. Capture the Ether and Ethernaut can be swapped out for either.
+
 * [Capture the Ether](https://capturetheether.com/)
 * [Ethernaut](https://ethernaut.zeppelin.solutions/)
 * [EtherHack](https://etherhack.positive.com/)
 * [SI Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
+* [Cipher Shastra](https://ciphershastra.com/index.html)
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+* [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021/)
 
 #### Writeups
 
@@ -66,11 +72,14 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Hacking Distributed](http://hackingdistributed.com/) - Emin Gün Sirer, professor in Cornell Tech’s IC3 lab focused on blockchain security.
 * [Phil Does Security](https://pdaian.com/blog/) - Phil Daian, grad student behind KEVM, Hydra, and other Ethereum academic projects
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
+* [ConsenSys](https://consensys.net/blog/) - Blockchain software technology company with a well respected blockchain security team
+* [Immunefi](https://medium.com/immunefi) - DeFi bug bounty platform. Release post-mortems/write ups of critical vulns and guides
+* [Secureum](https://secureum.substack.com/) - Initiative to educate smart contract security auditors. Releases publications on audit techniques and best practices
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 * [SmartDec blog](https://blog.smartdec.net/) - Company blog about security issues and practices within blockchain ecosystem
 
 ### Notable blog posts
-
+* [Hacking the Blockchain: Ethereum](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
 * [Contract upgrade anti-patterns](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/)
 * [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
 * [How to debug Solidity Smart Contracts with Tenderly and Truffle](https://medium.com/tenderly/how-to-debug-solidity-smart-contracts-with-tenderly-and-truffle-da995cfe098f)
@@ -162,6 +171,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
 * [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
+* [SkidsDAO discord](https://discord.gg/NHNRUKMCz2) - DAO founded by [Sleepy](https://twitter.com/morphean_sec) to onboard and train web3 hackers whilst funding projects pushing Ethereum innovation via an inbuilt charity staking system. Facilitates open, accountable audits with exploit insurance and bug bounties through it's decentralized protocol, Fides.
+* [Secureum discord](https://discord.gg/7sSTQATM6h) - Founded by 0xRajeev(former Trail of Bits security researcher) to educate the Ethereum ecosystem on smart contract auditing and security. Holds monthly RACE and CARE programmes free of charge for aspiring auditors with NFTs as proof of participation and on-chain rep.
+* [Spearbit discord](https://discord.gg/qdYWpHJpnH) - DAO founded by freelance blockchain security researchers to provide an avenue for auditors to perform freelance work without worrying about legality issues.
+* [Immunefi discord](https://discord.gg/JPfXR8qFYZ) - Community discord for the Immunefi DeFi bug bounty platform. Hacker meetups are occasionally held. At the time of this writing, samczsun and the Ethernaut have been featured guests.
 
 ## Other Awesome Lists
 
