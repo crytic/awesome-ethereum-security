@@ -34,6 +34,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Comprehensive list of known attack vectors for Solidity](https://blog.sigmaprime.io/solidity-security.html)
 * [Consensys Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Decentralized Application Security Project](https://www.dasp.co/)
+* [Learn AppSec the fun way - SecDim](https://secdim.com)
 * [Solidity Security Considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 * [Solidity v0.5.0 Breaking Changes](https://solidity.readthedocs.io/en/latest/050-breaking-changes.html)
 
