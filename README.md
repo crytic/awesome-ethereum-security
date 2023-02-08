@@ -153,6 +153,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Panoramix](http://eveem.org/about)
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
+* [ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 
 ### Custody
 
