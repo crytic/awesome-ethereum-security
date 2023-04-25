@@ -133,6 +133,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 ### Bug finding tools
 
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
+- [ERCx](https://ercx.runtimeverification.com) - Testing tool with a Web interface to test conformance and properties of ERC-20 tokens. Based on Foundry forge.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
