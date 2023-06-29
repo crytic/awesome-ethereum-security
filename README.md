@@ -161,7 +161,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 ## Communities
 
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
-* [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
+* [Empire Hacking Slack](https://slack.empirehacking.nyc/) #ethereum
 
 ## Other Awesome Lists
 
