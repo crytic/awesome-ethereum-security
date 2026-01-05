@@ -157,6 +157,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 ### Custody
 
 * [Subzero](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) - Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square
+* [PolicyLayer](https://github.com/PolicyLayer/PolicyLayer) - Non-custodial spending controls for AI agents with crypto wallets. Enforces spending limits and recipient whitelists without holding private keys
 
 ## Communities
 
