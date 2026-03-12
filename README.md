@@ -135,6 +135,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [r30rg](https://github.com/copyleftdev/r30rg) - Chaos and adversarial testing framework for Arbitrum rollup stacks. Deterministic simulation with fault injection, live Docker chaos across L1/L2/L3, bridge invariant probing, and timeboost auction analysis.
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
