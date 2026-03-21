@@ -132,6 +132,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 ### Bug finding tools
 
+* [Aegis](https://github.com/StanleytheGoat/aegis) - Smart contract scanner that checks against 165 known exploit patterns, simulates transactions on forked chains, and provides on-chain enforcement via Base mainnet
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
