@@ -132,7 +132,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 ### Bug finding tools
 
-* [ContractScan](https://github.com/h33min/contractscan) - Multi-engine scanner that combines Slither, Mythril, Semgrep, Aderyn, and AI analysis in a single pass with unified reporting
+* [ContractScan](https://contract-scanner.raccoonworld.xyz) - Multi-engine scanner that combines Slither, Mythril, Semgrep, Aderyn, and AI analysis in a single pass with unified reporting. [GitHub Action](https://github.com/h33min/contractscan-action) available.
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
