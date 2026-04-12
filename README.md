@@ -132,6 +132,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 ### Bug finding tools
 
+* [Base Token Safety Scanner](https://github.com/0xVarius/base-token-scanner) - Free, open-source API that analyzes Base chain ERC-20 tokens for rug pull risks, honeypots, ownership issues, and security flags
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
