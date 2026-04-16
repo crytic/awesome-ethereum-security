@@ -113,6 +113,8 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Zero Knowledge #16](http://www.zeroknowledge.fm/16) - Talking security with JP Smith from Trail of Bits
 * [Risky Business #488](https://risky.biz/RB488/) - JP Smith about all things blockchain
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## Tools
 
 ### Visualization
