@@ -130,6 +130,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Solhint](https://github.com/protofire/solhint) - Linter for both security and style-guide validations. It strictly adheres to the [Solidity Style Guide](https://solidity.readthedocs.io/en/latest/style-guide.html).
 * [Solium](https://github.com/duaraghav8/Solium) - Linter for both security and style-guide validations. Does not strictly adhere to the Solidity Style Guide.
 
+### Online Scanners
+
+* [ContractScan](https://dutchaiagency.github.io/contractscan-api/) - Free browser-based smart contract scanner with proxy detection, rug-pull analysis, DEX liquidity checks, and Sourcify source verification across 6 chains.
+
 ### Bug finding tools
 
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
