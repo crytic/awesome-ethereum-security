@@ -173,3 +173,5 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 ## Contributing
 
 We welcome contributions that help curate this awesome list. Please refer to the [contributing guidelines](CONTRIBUTING.md) when submitting PRs. Thanks!
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) — CLOB exchange + perpetual prediction markets on Base L2 (Ethereum rollup). On-chain settlement, 9 trading pairs (ET10, VAIX, SBIO), pre-launch TGE token predictions. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=dex-outreach)
