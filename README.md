@@ -138,6 +138,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for on-chain trust scoring of AI agent wallets on Solana. Verify agent wallet identity, transaction history, and autonomy score — useful in security contexts where AI agents interact with smart contracts. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Verification tools
 
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
