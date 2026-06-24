@@ -114,6 +114,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Risky Business #488](https://risky.biz/RB488/) - JP Smith about all things blockchain
 
 ## Tools
+- [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
 
 ### Visualization
 
