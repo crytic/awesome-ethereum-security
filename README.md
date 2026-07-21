@@ -135,6 +135,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Echidna](https://github.com/trailofbits/echidna) - Fuzzer for Ethereum smart contracts. Uses property testing to generate malicious inputs that break smart contracts.
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for Ethereum smart contracts that includes detectors for common security flaws
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
+* [OpenClaw Audit](https://github.com/juan23z/openclaw-audit) - Free heuristic static analysis for Solidity with a GitHub Action; 12 detectors, calibrated to 0 findings on the OpenZeppelin library
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
