@@ -143,6 +143,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
 * [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for EVM
 
+### Monitoring and state tracking
+
+- [protoscan](https://github.com/dumtban/protoscan) - On-chain protocol state tracker and diff tool. Snapshots proxy implementations, admin/owner addresses, and protocol parameters across chains. Built-in registry for 11 DeFi protocols.
+
 ### Reversing tools
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
