@@ -158,6 +158,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [Subzero](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) - Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square
 
+### Infrastructure & Node Monitoring
+
+* [OpenChainBench](https://github.com/ChainBench/OpenChainBench) - Open-source benchmark suite for RPC nodes (40+ chains), bridges, oracles, and price feeds. Tracks oracle staleness, bridge relay timing, and RPC correctness continuously — baselines that are directly relevant to security assumptions in on-chain protocols. Public Prometheus metrics and a keyless MCP server at `https://openchainbench.com/api/mcp/mcp`.
+
 ## Communities
 
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
