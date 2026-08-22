@@ -138,6 +138,8 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 
+
+* [SafeScan](https://github.com/foxxx009/safescan) - Browser-based on-chain risk scanner for tokens and contracts (permission audit, liquidity lock, holder concentration, rug scoring) across EVM chains. Free tier plus a paid deep-report option settled in USDC on Base.
 ### Verification tools
 
 * [KEVM](https://github.com/kframework/evm-semantics) - K Semantics of the Ethereum Virtual Machine (EVM)
