@@ -137,6 +137,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Mythril OSS](https://github.com/ConsenSys/mythril/) - Open-source security analysis tool for Ethereum smart contracts built around detector modules
 * [Securify](https://github.com/eth-sri/securify) - Static analysis tool from ChainSecurity
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
+* [slither-chat](https://github.com/pxlcrtiv/slither-chat) - AI copilot for Slither audits: classifies every detector finding, explains it in plain English, and suggests patches
 
 ### Verification tools
 
