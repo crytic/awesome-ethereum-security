@@ -162,6 +162,8 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [Enterprise Ethereum Alliance Security Task Force](https://entethalliance.org/working-groups/)
 * [Empire Hacking Slack](https://empireslacking.herokuapp.com/) #ethereum
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 ## Other Awesome Lists
 
