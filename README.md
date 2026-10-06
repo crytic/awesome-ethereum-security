@@ -119,6 +119,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 
 * [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger) - A graphical EVM debugger. Displays the entire program control flow graph.
 * [Slither](https://github.com/trailofbits/slither) - Slither can map method visibility and modifiers, state variables that are read and written, calls, and can print the inheritance graph of a smart contract
+* [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) - Token launch safety scanner: authority, honeypot, LP lock and holder checks across EVM chains and Solana.
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
