@@ -68,6 +68,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Trail of Bits](https://blog.trailofbits.com/) - Cybersecurity R&D firm with a blockchain security practice
 * [Martin Holst Swende](http://swende.se/) - Martin Swende, programmer and appsec consultant
 * [SmartDec blog](https://blog.smartdec.net/) - Company blog about security issues and practices within blockchain ecosystem
+* [Onchain Diary](https://theonchaindiary.com/) - Independent publication covering on-chain forensics: wallet-drainer investigations, supply-chain attacks on hardware wallets, and scam-tracing case studies
 
 ### Notable blog posts
 
@@ -75,6 +76,7 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [How the winner got Fomo3D prize — A Detailed Explanation](https://medium.com/coinmonks/how-the-winner-got-fomo3d-prize-a-detailed-explanation-b30a69b7813f)
 * [How to debug Solidity Smart Contracts with Tenderly and Truffle](https://medium.com/tenderly/how-to-debug-solidity-smart-contracts-with-tenderly-and-truffle-da995cfe098f)
 * [Lashing out at a Spank Channel](https://medium.com/coinmonks/lashing-out-at-a-spank-channel-2b42b23f0dc6)
+* [The Ledger–CryptoBilis Hack: How Buying a Trusted Reseller Became the Attack](https://theonchaindiary.com/articles/ledger-cryptobilis-supply-chain-hack/)
 * [Malicious GasToken Minting](https://medium.com/level-k/public-disclosure-malicious-gastoken-minting-236b2f8ace38)
 * [Missing return value bug in ERC20 tokens](https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca)
 * [Not A Fair Game – Fairness Analysis of Dice2win](http://blogs.360.cn/post/Fairness_Analysis_of_Dice2win_EN.html)
