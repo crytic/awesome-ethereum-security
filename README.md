@@ -154,6 +154,10 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [pyevmasm](https://github.com/trailofbits/pyevmasm) - EVM assembler and disassembler with a CLI and a Python API
 * [Rattle](https://github.com/trailofbits/rattle) - EVM binary static analysis framework. Produces SSA representations of EVM code.
 
+### Monitoring
+
+* [ownerwatch](https://github.com/imal1ice/ownerwatch) - Self-hosted monitor for the admin surface of deployed contracts: owner and proxy-admin changes, implementation upgrades, role grants, Safe signer and threshold changes, timelock schedules with decoded calldata, treasury outflows. Includes a read-only `probe` that maps who can upgrade or pause a protocol.
+
 ### Custody
 
 * [Subzero](https://medium.com/square-corner-blog/open-sourcing-subzero-ee9e3e071827) - Subzero is an HSM-backed method for cold storage of Bitcoin developed by Square
