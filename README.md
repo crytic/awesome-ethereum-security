@@ -122,6 +122,8 @@ Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot
 * [Solgraph](https://github.com/raineorshine/solgraph) - Generates DOT graphs with function control flow of a solidity contract
 * [Surya](https://github.com/ConsenSys/surya) - Generates various visual outputs of function call graphs
 * [sol-function-profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
+* [DeFiPulse AI](https://defipulse.net) - AI-powered Solidity smart contract security auditing and vulnerability risk scoring platform.
+
 
 ### Linters
 
